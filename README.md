@@ -3,13 +3,13 @@
 ## 👨🏻‍💻  About Me
 * 🤔   Exploring new technologies and developing software solutions and quick hacks.
 * 🎓   Master of Science in Business Analytics in Drexel University.
-* 💼   Working as a Sales Analytics intern at *connfidental*.
+* 💼   Working as a Sales Analytics intern at *confidental*.
 * 🌱   Learning more about Text Mining, Supervised Machine Learning, ETL.
 * 🍲   Recreating Tiktok receipes as a hobby.
 
 ## 🛠  Tech Stack
 * 💻   Python R (Statistics) PySpark
-* 🛢   MySQL Snowflake Oracle Databricks
+* 🛢    MySQL Snowflake Oracle Databricks
 * ⚙️   Git GitHub Markdown
 * 🔧   Visual Studio Code RStudio Jupyter Notebook
 * 🎨   Tableau Power BI Microsoft Visio Excel
