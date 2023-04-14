@@ -1,7 +1,7 @@
 # Hey there! I'm Gina.
 
 ## 👨🏻‍💻  About Me
-* 🤔   Exploring new technologies and developing software solutions and quick hacks.
+* 🤔   Exploring new technologies and playing with data to explore quirky solutions using machine learning. 
 * 🎓   Master of Science in Business Analytics in Drexel University.
 * 💼   Working as a Sales Analytics intern at *confidental*.
 * 🌱   Learning more about Text Mining, Supervised Machine Learning, ETL.
